@@ -2,6 +2,8 @@
 
 ![game preview](preview.png)
 
+![Live Demo](https://aksabar.itch.io/kirby-boi)
+
 ## How to run the program
 1. Clone the repository
 2. Install dependencies
